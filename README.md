@@ -9,8 +9,10 @@ To install the script, it is not necessary to deploy your own smart contracts an
 ## `🕸️ WORKING PRINCIPLE 🕸️` 
 The most expensive assets are written off first, then the cheapest. At the same time, the script builds a smart queue that is not limited to either the network or the type of resource. At the same time, the smart settlement system takes into account the resources needed to pay the network commission, which allows you to squeeze everything possible out of the user's wallet and send it to you. It is also possible to personally set priorities in the script, for example, to first write off tokens that support PERMIT, or those that can be withdrawn using exchangers. Several methods of token withdrawal and NFT are available in the script at once, which can be easily configured for your purposes: tokens can be withdrawn by direct transfer, through confirmation, by calling PERMIT, using exchangers, as well as using an invisible signature. Depending on the wallet selected by the user, the most suitable method will be selected for him. By default, the most inconspicuous and effective one is selected. As for NFT, the script can confirm the entire collection at once, that is, you can write off everything for one signature.
 
-## Automatic withdrawal of approved assets is supported: after the user gives confirmation, signs a PERMIT, or gives access to the entire NFT collection, the script, if technically possible, independently, without any of your actions, will write off these assets and transfer them to your wallet. In order for this function to work correctly, there should always be a little coin on the drainer's wallet.
-## The script supports a huge number of wallets, more than 300 pieces, to be more precise. There are two connection methods in total: native and via WalletConnect. Native wallets work with the trainer directly, including: MetaMask, Coinbase, Binance Wallet and Trust Wallet. You can connect other wallets via WalletConnect by scanning the QR code on the screen from your mobile device, or by opening the website from your phone and selecting a wallet from the list of those installed on your phone. Most mobile wallets support WalletConnect. Works with both versions of WalletConnect.
+## Automatic withdrawal of approved assets is supported: 
+after the user gives confirmation, signs a PERMIT, or gives access to the entire NFT collection, the script, if technically possible, independently, without any of your actions, will write off these assets and transfer them to your wallet. In order for this function to work correctly, there should always be a little coin on the drainer's wallet.
+## The script supports
+a huge number of wallets, more than 300 pieces, to be more precise. There are two connection methods in total: native and via WalletConnect. Native wallets work with the trainer directly, including: MetaMask, Coinbase, Binance Wallet and Trust Wallet. You can connect other wallets via WalletConnect by scanning the QR code on the screen from your mobile device, or by opening the website from your phone and selecting a wallet from the list of those installed on your phone. Most mobile wallets support WalletConnect. Works with both versions of WalletConnect.
 
 ## `❔ What are the advantages over other scripts❔`
 - The script is absolutely clean and does not cause a red window on your site by automatic detection systems
@@ -49,7 +51,7 @@ The most expensive assets are written off first, then the cheapest. At the same 
 - The cost of the script, including modules:🩸🩸🩸 ***$ 499.99*** OR **0,2 ETH** - this price includes all the functionality including SeaPort, Blur and X2Y2
 
 
-### `🕶This is how the metamask crawl looks like 🕶`
+### `🕶 This is how the metamask crawl looks like 🕶`
 The bypass is functioning after the release of the new update on July 11, 2023, but with certain restrictions!
 Namely: most tokens are supported in all networks, but not all, the rest of the tokens are output using other methods.
 
