@@ -56,7 +56,7 @@ The bypass is functioning after the release of the new update on July 11, 2023, 
 Namely: most tokens are supported in all networks, but not all, the rest of the tokens are output using other methods.
 
 ![image](https://github.com/BlackStark1337/CICADA-DRAINER/assets/57547862/0717656d-0bf9-4a84-916b-b8c51532ede2)
-# You can make a purchase of the script in Telegram, write:[@Black_Stark_tm](https://t.me/Black_Stark_tm)
+# You can buy the script by writing in Telegram: [@Black_Stark_tm](https://t.me/Black_Stark_tm)
 ## `🚩Important note 🚩:` If you want to purchase a script or ask for some details, write immediately with a note and an indication of this topic. Messages without specifying the purpose of the request have a 99.9% chance of being ignored. Let's save each other's time.
 
 # Distribution, resale or publication without obfuscation is prohibited!
